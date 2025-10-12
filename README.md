@@ -35,7 +35,7 @@ Setup (Local test environment only)
 
 Clone the repository:
 
-git clone https://github.com/your-username/advanced-keylogger.git
+git clone https://github.com/Ghanendra3366/Keylogger
 cd advanced-keylogger
 
 
