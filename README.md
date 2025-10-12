@@ -1,13 +1,13 @@
-Advanced Keylogger (Beginner) 🚧
+#Advanced Keylogger (Beginner) 🚧
 
 Beginner level — For college assignment / learning purposes only.
 Important: Run this project only in a controlled test environment (VM/lab machine) where you have explicit permission. Running it on someone else’s device without permission is illegal and unethical.
 
-Project Overview
+#Project Overview
 
 This Advanced Keylogger project is an educational tool designed to demonstrate monitoring and logging concepts such as keystroke capture, screenshots, and basic log collection. The goal is to learn how monitoring systems work and to study security concepts — not to misuse the software.
 
-For College Submission
+#For College Submission
 
 This README is prepared for assignment submission. Include the following in your submission:
 
