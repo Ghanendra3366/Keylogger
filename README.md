@@ -36,7 +36,7 @@ Setup (Local test environment only)
 Clone the repository:
 
 git clone https://github.com/Ghanendra3366/Keylogger
-cd advanced-keylogger
+cd keylogger
 
 
 Create and activate a virtual environment, then install dependencies:
